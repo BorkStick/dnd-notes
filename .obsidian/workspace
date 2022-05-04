@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "db2e7d8bb8c11479",
+    "type": "split",
+    "children": [
+      {
+        "id": "145a86f1d90b6f86",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "585fc7aef3d6f7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b877b411684ea83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f689c253a1468e1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc15d54d988f8aa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "523a1375c406f196",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5422e4a638bf9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb6975e6e58eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cda523c7c4c77351",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d85a81f0ce7c6f90",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "145a86f1d90b6f86",
+  "lastOpenFiles": [
+    "Factions/Barae.md",
+    "_templates/monster_template.md",
+    "People/NPC/Artus Cimber.md",
+    "People/NPC/Alisanda Rayburton.md",
+    "People/NPC/Ras Nsi.md",
+    "Places/Mezro.md",
+    "Sessions/2022-05-03.md",
+    "Sessions/70.md",
+    "Monsters/Grung.md",
+    "_templates/npc_template.md"
+  ]
+}
