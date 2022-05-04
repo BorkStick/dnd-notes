@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "omu-map",
-      "lastAccessed": 1651641960586,
+      "lastAccessed": 1651644454259,
       "markers": [
         {
           "id": "ID_7bca2b79ca5a",
@@ -56,7 +56,9 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Places/Omu.md"
+        "Places/Omu.md",
+        "Places/Port Nyanzaru.md",
+        "Places/Chult.md"
       ]
     }
   ],
