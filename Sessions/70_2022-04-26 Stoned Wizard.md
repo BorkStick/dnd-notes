@@ -1,9 +1,9 @@
 ---
-type: NPC
+type: session
+date:
 world: Forgotten Realms
 campaign: Tomb of Annihilation
-location:
-
+summary:
 ---
 
-# Alisanda Rayburton
+# 70_2022-04-26 Stoned Wizard

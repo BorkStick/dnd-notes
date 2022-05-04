@@ -1,6 +1,7 @@
 [
-  "calendar",
   "dataview",
   "obsidian-admonition",
-  "fantasy-calendar"
+  "calendar",
+  "fantasy-calendar",
+  "obsidian-leaflet-plugin"
 ]

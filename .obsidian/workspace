@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "145a86f1d90b6f86",
+        "id": "3787970184fe254f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Places/Omu.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Omu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,7 +80,7 @@
             }
           },
           {
-            "id": "cda523c7c4c77351",
+            "id": "a0db67771302d1a0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -84,7 +88,7 @@
             }
           },
           {
-            "id": "d85a81f0ce7c6f90",
+            "id": "83e7cfb129509c40",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -98,17 +102,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "145a86f1d90b6f86",
+  "active": "3787970184fe254f",
   "lastOpenFiles": [
-    "Factions/Barae.md",
-    "_templates/monster_template.md",
-    "People/NPC/Artus Cimber.md",
-    "People/NPC/Alisanda Rayburton.md",
-    "People/NPC/Ras Nsi.md",
+    "Places/Omu.md",
     "Places/Mezro.md",
-    "Sessions/2022-05-03.md",
-    "Sessions/70.md",
-    "Monsters/Grung.md",
-    "_templates/npc_template.md"
+    "Places/Port Nyanzaru.md",
+    "_templates/monster_template.md",
+    "Places/Grand Sook.md",
+    "Sessions/70_2022-04-26 Stoned Wizard.md",
+    "Sessions/69_00000000 Eerp Eerp Rook.md",
+    "Sessions/71 _20220503 Snail Shrine Time.md",
+    "Sessions/2022-04-26.md",
+    "Jorneymasters Log.md"
   ]
 }

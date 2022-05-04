@@ -1,9 +1,7 @@
 ---
-type: NPC
+type: item
 world: Forgotten Realms
 campaign: Tomb of Annihilation
-location:
-
 ---
 
-# Alisanda Rayburton
+# Soulmonger
