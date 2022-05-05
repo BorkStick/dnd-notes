@@ -7,8 +7,11 @@
         "id": "3787970184fe254f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "People/Players/Danny.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Players/Danny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +104,15 @@
   },
   "active": "3787970184fe254f",
   "lastOpenFiles": [
-    "Sessions/Untitled.md",
-    "Sessions/2022-05-03.md",
-    "Sessions/2022-04-26.md",
-    "Sessions/71 _20220503 Snail Shrine Time.md",
-    "Sessions/70_2022-04-26 Stoned Wizard.md",
-    "Sessions/69_00000000 Eerp Eerp Rook.md",
-    "Sessions/68.md",
-    "Sessions/67.md",
-    "Sessions/66.md",
-    "Sessions/65.md"
+    "People/Players/Danny.md",
+    "People/Players/Greyson Mistwood.md",
+    "People/Players/Ashe.md",
+    "People/Players/Misty.md",
+    "assets/misty.jpeg",
+    "People/Players/Lantia.md",
+    "People/Players/Samea.md",
+    "People/Players/Lorfyr.md",
+    "People/Players/Wayfier.md",
+    "People/Players/Steve Er.md"
   ]
 }
