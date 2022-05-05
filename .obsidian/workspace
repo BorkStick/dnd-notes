@@ -7,25 +7,9 @@
         "id": "3787970184fe254f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lore/Animal Legend.md",
-            "mode": "source"
-          }
-        },
-        "group": "66078f6811e8bd8c"
-      },
-      {
-        "id": "80688120e859a807",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lore/Animal Legend.md",
-            "mode": "preview"
-          }
-        },
-        "group": "66078f6811e8bd8c"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Animal Legend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "80688120e859a807",
+  "active": "3787970184fe254f",
   "lastOpenFiles": [
-    "Lore/Animal Legend.md",
-    "Jaculi.md",
-    "Monsters/Flail Snail.md",
-    "Monsters/Su-monster.md",
-    "Monsters/Almiraj.md",
-    "Monsters/Eblis.md",
-    "Monsters/Zorbo.md",
-    "Monsters/Kamadan.md",
-    "Gods/Ubtao.md",
-    "Lore/Death Curse.md"
+    "Sessions/Untitled.md",
+    "Sessions/2022-05-03.md",
+    "Sessions/2022-04-26.md",
+    "Sessions/71 _20220503 Snail Shrine Time.md",
+    "Sessions/70_2022-04-26 Stoned Wizard.md",
+    "Sessions/69_00000000 Eerp Eerp Rook.md",
+    "Sessions/68.md",
+    "Sessions/67.md",
+    "Sessions/66.md",
+    "Sessions/65.md"
   ]
 }

@@ -7,3 +7,5 @@ summary:
 ---
 
 # 69_00000000 Eerp Eerp Rook
+
+## Log
