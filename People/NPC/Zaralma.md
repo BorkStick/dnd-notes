@@ -1,0 +1,7 @@
+[[Batiri]]
+
+leatherworker
+
+female
+
+[[Niplaka]]

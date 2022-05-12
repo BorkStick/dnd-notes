@@ -5,3 +5,5 @@ campaign: Tomb of Annihilation
 ---
 
 # Grung
+
+[[Nung Nung]]

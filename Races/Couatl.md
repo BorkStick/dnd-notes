@@ -1,0 +1,1 @@
+devine cartakers created by an unknown god, serve good aligned god protect gods

@@ -1,0 +1,3 @@
+goblin village
+
+[[M'bobo]]

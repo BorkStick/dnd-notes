@@ -337,6 +337,54 @@
           "id": "ID_a8680aa9795b",
           "note": null,
           "category": null
+        },
+        {
+          "name": "The Storm",
+          "description": "a wall of water happens and everything goes dark\ndetect magic, senses overwhelming power there is a pull\nDC for death saves are now 11 from 10\n\n",
+          "date": {
+            "day": 7,
+            "month": 8,
+            "year": 1491
+          },
+          "id": "ID_ea396aea8889",
+          "note": "Sessions/20",
+          "category": "natural-events"
+        },
+        {
+          "name": "Teefling Attack",
+          "description": "Lightning Teefling apears and attacks us\ntakes blood from [[Ashe]] and [[Steve]]",
+          "date": {
+            "day": 8,
+            "month": 8,
+            "year": 1491
+          },
+          "id": "ID_69fa2b9bb99b",
+          "note": "Sessions/21",
+          "category": null
+        },
+        {
+          "name": "Call from Zatembe ",
+          "description": "captin of thepidgen boat died of th spell plague",
+          "date": {
+            "day": 18,
+            "month": 8,
+            "year": 1491
+          },
+          "id": "ID_2adb4b8a7aba",
+          "note": "Sessions/34",
+          "category": null
+        },
+        {
+          "name": "Dream",
+          "description": "walking through thick fog \n we enterr clearing and are blinded by the light \n we see people we recgonize but dont know \n look at the center of clearing and hear eating\n see a black tree with skellies hanging from it kids\n small round black lights illuminate the skulls \n red glow \n sky is dark black\n elvish figure lying under the tree pregos\n triplets \n she eating a fruit \n lights are dark red apples \n she eating them fruits \n tree gives her more fruit from the kidd skull\n eating stops \n she screames haunting us\n bright light comes from her belly\n its pitch black now \n we lying down \n we get up and are in a stone room \n we see odly shaped windows \n they spell out words\n they spell out \n THE NIGHT",
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1491
+          },
+          "id": "ID_6b08da5b7a58",
+          "note": "Sessions/37",
+          "category": null
         }
       ],
       "id": "ID_dafbeaf918da",

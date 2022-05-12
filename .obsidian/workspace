@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3787970184fe254f",
+        "id": "e6fac54acd9d60bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Players/Danny.md",
-            "mode": "source"
+            "file": "Factions/Red Wizards of Thay.md",
+            "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "6096cd77c7ec84f4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -59,26 +67,10 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5422e4a638bf9b",
+        "id": "242885bf618bc26a",
         "type": "tabs",
+        "dimension": 34.711964549483014,
         "children": [
-          {
-            "id": "fbb6975e6e58eeb8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "People/Players/Danny.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "a0db67771302d1a0",
             "type": "leaf",
@@ -97,22 +89,61 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ca5422e4a638bf9b",
+        "type": "tabs",
+        "dimension": 34.711964549483014,
+        "children": [
+          {
+            "id": "fbb6975e6e58eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factions/Red Wizards of Thay.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "be48936f46a2c16e",
+        "type": "tabs",
+        "dimension": 30.576070901033976,
+        "children": [
+          {
+            "id": "3787970184fe254f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3787970184fe254f",
+  "active": "e6fac54acd9d60bf",
   "lastOpenFiles": [
-    "People/Players/Danny.md",
-    "People/Players/Greyson Mistwood.md",
-    "People/Players/Ashe.md",
-    "People/Players/Misty.md",
-    "assets/misty.jpeg",
-    "People/Players/Lantia.md",
-    "People/Players/Samea.md",
-    "People/Players/Lorfyr.md",
-    "People/Players/Wayfier.md",
-    "People/Players/Steve Er.md"
+    "Factions/Red Wizards of Thay.md",
+    "People/NPC/Morgan Twitchwood.md",
+    "People/NPC/You.md",
+    "People/Tribes/Tabaxi.md",
+    "Places/Cities/Mezro.md",
+    "People/Tribes/Eshowe.md",
+    "Places/Cities/Omu.md",
+    "People/NPC/Silvane Barande.md",
+    "People/NPC/Arette.md",
+    "People/NPC/Wahyass Otomau.md"
   ]
 }

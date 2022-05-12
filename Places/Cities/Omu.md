@@ -39,6 +39,8 @@ WHERE type = "NPC" and contains(location,"Omu")
 ```
 
 
+## Info 
+omu was a prosperous city that pissed off uptou and marched their army and caused them to be forsaken by the god
 
 
 ### Shrines
