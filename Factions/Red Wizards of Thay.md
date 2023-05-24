@@ -12,6 +12,10 @@ shaved heads and red robes
 
 tattoos on their foreheads
 
+slavers
+
+after the Soul Mongerer 
+
 
 
 
@@ -23,6 +27,13 @@ tattoos on their foreheads
 [[Raalkir]]
 [[Ulokir]]
 [[Nishkir]]
-[[Barakir]]
+
 
 [[Draxkir]]
+[[Barakir]]
+
+### Members
+```dataview
+TABLE description as "Description"
+WHERE type = "NPC" AND faction = "red wizards of thay"	
+```

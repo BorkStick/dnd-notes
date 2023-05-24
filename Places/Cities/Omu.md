@@ -44,6 +44,6 @@ omu was a prosperous city that pissed off uptou and marched their army and cause
 
 
 ### Shrines
-frog
-dropbear
-snail 
+frog Shrine
+dropbear Shrine 
+snail Shrine

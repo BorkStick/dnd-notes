@@ -2,8 +2,17 @@
 type: monster
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+description: ""
 ---
 
 # Grung
 
-[[Nung Nung]]
+
+
+[[Gods/Nangnang]]
+
+## Members
+```dataview
+TABLE description
+WHERE race = "Grung"
+```

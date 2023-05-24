@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "db2e7d8bb8c11479",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a4f19da28e078e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5686ff31cbf531b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Forgotten Realms.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "853f57b82dc1cfc2"
+          }
+        ]
+      },
+      {
+        "id": "f6f8d3d166ac9e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8afd20d4a7b994f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Forgotten Realms.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "853f57b82dc1cfc2"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "585fc7aef3d6f7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b877b411684ea83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f689c253a1468e1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc15d54d988f8aa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "undead",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "510bcc1ac4fcfbfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "523a1375c406f196",
+    "type": "split",
+    "children": [
+      {
+        "id": "242885bf618bc26a",
+        "type": "tabs",
+        "dimension": 34.711964549483014,
+        "children": [
+          {
+            "id": "a0db67771302d1a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2fbf7818c14afed",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ca5422e4a638bf9b",
+        "type": "tabs",
+        "dimension": 34.711964549483014,
+        "children": [
+          {
+            "id": "fbb6975e6e58eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Forgotten Realms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "be48936f46a2c16e",
+        "type": "tabs",
+        "dimension": 30.576070901033976,
+        "children": [
+          {
+            "id": "3787970184fe254f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "5686ff31cbf531b6",
+  "lastOpenFiles": [
+    "Quests/collect the cubes.md",
+    "People/Players/Wayfier.md",
+    "People/Players/Steve Er.md",
+    "People/Players/Samea.md",
+    "People/Players/Raven.md",
+    "People/Players/Myrddin.md",
+    "People/Players/Misty.md",
+    "People/Players/Lorfyr.md",
+    "People/Players/Lantia.md",
+    "People/Players/Greyson Mistwood.md",
+    "People/Players/Danny.md",
+    "People/Players/Ashe.md",
+    "Sessions/60.md",
+    "Sessions/59.md",
+    "Sessions/61.md",
+    "Sessions/58.md",
+    "Sessions/57.md",
+    "Treant.md",
+    "_assets/Pasted image 20230524023731.png",
+    "Sessions/56.md",
+    "Sessions/55.md",
+    "Sessions/54.md",
+    "Sessions/53.md",
+    "Sessions/52.md",
+    "Sessions/51.md",
+    "Sessions/50.md",
+    "Sessions/49.md",
+    "_assets/maps/ChultMapSession10.png",
+    "_assets/maps/ChultPlayerMapNumbered8-26-19.jpg",
+    "Lore/Dreams",
+    "_assets/Monster_Manual_5e_-_Beholder_-_p28.webp",
+    "Untitled.canvas",
+    "_assets/Pasted image 20230524013917.png",
+    "_assets/Pasted image 20230524001155.png",
+    "Quests",
+    "_assets/Lantia 1.jpeg",
+    "SORT"
+  ]
+}

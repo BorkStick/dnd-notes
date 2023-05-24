@@ -2,9 +2,15 @@
 type: player
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+faction: The Silver Masks 
+description: 
+status: unknown
 ---
 
-# Myrddin
+Name:  
+Class: 
+Race: 
+Faction: [[The Silver Masks]]
 
 Firbog Druid
 

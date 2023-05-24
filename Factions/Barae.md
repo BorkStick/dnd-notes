@@ -2,9 +2,16 @@
 type: faction
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+
 ---
 
-# Barae
+
+
+## Members
+```dataview
+TABLE discription
+WHERE faction = "Barae"
+```
 
 [[Ras Nsi]]
 [[Alisanda Rayburton]]

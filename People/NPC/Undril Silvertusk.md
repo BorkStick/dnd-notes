@@ -2,9 +2,21 @@
 type: NPC
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+location: Port Nyanzaru
+faction: Order of the Gauntlet
+description: 
+
 ---
 
-# Undril Silvertusk
+
+
+Name: 
+Class: 
+Race: [[Ork]]
+Faction: [[Order of the Gauntlet]]
+
+
+
 
 Member of the [[Order of the Gauntlet]]
 

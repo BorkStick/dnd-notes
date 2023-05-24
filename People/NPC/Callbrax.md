@@ -1,9 +1,22 @@
+---
+type: NPC
+world: Forgotten Realms
+campaign: Tomb of Annihilation
+faction: Harpers
+location:
+date:
+description:
+race: Halfling
+gender: Female
+class: Mage
+---
+
+# Callbrax
 
 
 
 
-
--   [Halfling](http://10.0.0.60/index.php/Category:Halfling "Category:Halfling")
--   [Mage](http://10.0.0.60/index.php/Category:Mage "Category:Mage")
--   [Female](http://10.0.0.60/index.php/Category:Female "Category:Female")
--   [Harpers](http://10.0.0.60/index.php/Category:Harpers "Category:Harpers")
+-   [[Halfling]]
+-   [[Mage]]
+-  [[Female]]
+-   [[Harpers]]

@@ -1,6 +1,6 @@
 # The Journeymasters Log
 
 ```dataview
-LIST 
-WHERE type = "session"
+TABLE summary, date 
+WHERE type = "session" AND TAG != "template"
 ```

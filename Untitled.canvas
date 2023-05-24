@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e2fa71d0404fd1b8","x":-9,"y":-185,"width":400,"height":400,"type":"file","file":"People/NPC/Butterfly Face.md"},
+		{"id":"ace3845a471efb03","x":-460,"y":-185,"width":400,"height":400,"type":"file","file":"People/NPC/Lightning Tiefling.md"},
+		{"id":"83955e959896d34c","x":-209,"y":300,"width":400,"height":400,"type":"file","file":"People/NPC/Morgan Twitchwood.md"},
+		{"id":"80b9828710621fc3","x":-209,"y":-800,"width":400,"height":400,"type":"file","file":"People/NPC/Main Baddie.md"}
+	],
+	"edges":[]
+}

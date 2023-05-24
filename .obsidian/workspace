@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6fac54acd9d60bf",
+        "id": "1120c930c1bdeaa2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/Red Wizards of Thay.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
-        }
-      },
-      {
-        "id": "6096cd77c7ec84f4",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -47,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Red Wizards of Thay.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e6fac54acd9d60bf",
+  "active": "1120c930c1bdeaa2",
   "lastOpenFiles": [
-    "Factions/Red Wizards of Thay.md",
-    "People/NPC/Morgan Twitchwood.md",
-    "People/NPC/You.md",
-    "People/Tribes/Tabaxi.md",
-    "Places/Cities/Mezro.md",
-    "People/Tribes/Eshowe.md",
-    "Places/Cities/Omu.md",
-    "People/NPC/Silvane Barande.md",
-    "People/NPC/Arette.md",
-    "People/NPC/Wahyass Otomau.md"
+    "Quests and Questions.md",
+    "Maps.md",
+    "Jorneymasters Log.md",
+    "Jaculi.md",
+    "Sessions/Untitled.md",
+    "Sessions/2022-05-03.md",
+    "Sessions/2022-04-26.md",
+    "Rogue Stuff.md",
+    "README.md",
+    "Lantia.jpeg"
   ]
 }

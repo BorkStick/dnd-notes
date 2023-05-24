@@ -2,9 +2,16 @@
 type: player
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+faction: The Silver Masks 
+description: 
 ---
 
-# Ashe
+Name:  
+Class: 
+Race: 
+Faction: [[The Silver Masks]]
+
+
 
 Tiefling Blood Hunter
 

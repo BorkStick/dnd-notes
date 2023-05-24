@@ -3,12 +3,22 @@ type: NPC
 world: Forgotten Realms
 campaign: Tomb of Annihilation
 location: Port Nyanzaru
-faction: [[Merchant Princes]]
+faction: Merchant Princes
+description: Merchant Prince of Magic
+
 ---
 
 # Wakanga O’Tamu
 
+
+Name: 
+Class: [[Mage]]
+Race: 
 Faction: [[Merchant Princes]]
+Rank: 
+
+
+
 
 
 Merchant Prince of Magic

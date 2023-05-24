@@ -3,7 +3,12 @@ type: NPC
 world: Forgotten Realms
 campaign: Tomb of Annihilation
 faction: 
-location
+location:
+date:
+description:
+race:
+gender:
+class:
 ---
 
 # {{title}}

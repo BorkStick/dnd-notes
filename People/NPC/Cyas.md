@@ -1,4 +1,17 @@
+---
+type: NPC
+world: Forgotten Realms
+campaign: Tomb of Annihilation
+faction: 
+location: Camp Vengeance
+date:
+description:
+race:
+gender: Female
+class:
+---
 
+# Cyas
 
 
 Sister Cyas

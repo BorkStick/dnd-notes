@@ -2,11 +2,13 @@
 type: faction
 world: Forgotten Realms
 campaign: Tomb of Annihilation
-tags: harpers
+
 ---
 
-# Harpers
+
+
+## Members
 ```dataview
-LIST
+TABLE discription
 WHERE faction = "Harpers"
 ```

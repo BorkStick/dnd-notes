@@ -2,19 +2,24 @@
   "mapMarkers": [
     {
       "id": "omu-map",
-      "lastAccessed": 1651644454259,
+      "locked": true,
+      "lastAccessed": 1684901657655,
       "markers": [
         {
           "id": "ID_7bca2b79ca5a",
           "type": "default",
           "loc": [
-            -4.0738525390625,
-            3.09765625
+            -4.0703125,
+            3.1015625
           ],
+          "link": "Snail Shrine",
           "layer": "%5B%5BPlayerOmuMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5671428571428572,
+            0.5484210526315789
+          ],
           "description": "Snail Shrine",
           "minZoom": null,
           "maxZoom": null,
@@ -27,11 +32,12 @@
             -2.8785400390625,
             4.76953125
           ],
+          "link": "Frog Shrine",
           "layer": "%5B%5BPlayerOmuMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Frog Shrine",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -43,11 +49,28 @@
             -3.9722900390625,
             4.390625
           ],
+          "link": "Dropbear Shrine",
           "layer": "%5B%5BPlayerOmuMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Dropbear Shrine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9ea2bb88b78",
+          "type": "default",
+          "loc": [
+            -3.02056884765625,
+            5.22265625
+          ],
+          "layer": "%5B%5BPlayerOmuMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "City Entry Point",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -56,9 +79,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Places/Omu.md",
-        "Places/Port Nyanzaru.md",
-        "Places/Chult.md"
+        "Places/Cities/Omu.md"
       ]
     }
   ],
@@ -78,11 +99,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "5.0.3",
+  "previousVersion": "5.5.2",
   "version": {
     "major": 5,
-    "minor": 0,
-    "patch": 3
+    "minor": 5,
+    "patch": 2
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
@@ -95,5 +116,6 @@
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
-  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
 }

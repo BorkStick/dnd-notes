@@ -2,9 +2,15 @@
 type: player
 world: Forgotten Realms
 campaign: Tomb of Annihilation
+faction: The Silver Masks 
+description: 
+status: dead
 ---
 
-# Wayfier
+Name:  [[Wayfier]]
+Class: [[Cleric]]
+Race: [[Human]]
+Faction: [[The Silver Masks]]
 
 Human Cleric
 
